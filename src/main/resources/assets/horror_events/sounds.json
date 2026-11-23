@@ -1,0 +1,11 @@
+{
+  "fake_steps": {"sounds": [{"name": "minecraft:block.gravel.step", "type": "event", "volume": 0.8, "pitch": 0.8}]},
+  "fake_breathing": {"sounds": [{"name": "minecraft:entity.player.breath", "type": "event", "volume": 0.6, "pitch": 0.7}]},
+  "door_creak": {"sounds": [{"name": "minecraft:block.wooden_door.open", "type": "event", "volume": 0.8, "pitch": 0.5}]},
+  "underground_digging": {"sounds": [{"name": "minecraft:block.gravel.break", "type": "event", "volume": 0.8, "pitch": 0.5}]},
+  "fake_creeper": {"sounds": [{"name": "minecraft:entity.creeper.primed", "type": "event", "volume": 1.0}]},
+  "stalker_appear": {"sounds": [{"name": "minecraft:entity.enderman.stare", "type": "event", "volume": 0.7, "pitch": 0.6}]},
+  "stalker_disappear": {"sounds": [{"name": "minecraft:entity.enderman.teleport", "type": "event", "volume": 0.7, "pitch": 0.5}]},
+  "stalker_ambient": {"sounds": [{"name": "minecraft:ambient.cave", "type": "event", "volume": 0.8}]},
+  "distortion": {"sounds": [{"name": "minecraft:block.beacon.deactivate", "type": "event", "volume": 0.6, "pitch": 0.5}]}
+}

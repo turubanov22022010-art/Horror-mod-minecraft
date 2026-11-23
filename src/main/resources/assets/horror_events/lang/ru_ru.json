@@ -1,0 +1,10 @@
+{
+  "entity.horror_events.stalker": "Наблюдатель",
+  "entity.horror_events.follower": "Преследователь",
+  "entity.horror_events.mimic": "Подражатель",
+  "horror_events.command.no_event": "Событие не найдено: %s",
+  "horror_events.command.started": "Запущено событие: %s",
+  "horror_events.command.stopped": "Активное событие остановлено.",
+  "horror_events.command.anxiety": "Тревога: %s / %s (день %s)",
+  "horror_events.command.reset": "Состояние Horror Events сброшено."
+}

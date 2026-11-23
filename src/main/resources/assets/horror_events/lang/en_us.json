@@ -1,0 +1,10 @@
+{
+  "entity.horror_events.stalker": "Watcher",
+  "entity.horror_events.follower": "Follower",
+  "entity.horror_events.mimic": "Mimic",
+  "horror_events.command.no_event": "Event not found: %s",
+  "horror_events.command.started": "Started event: %s",
+  "horror_events.command.stopped": "Active event stopped.",
+  "horror_events.command.anxiety": "Anxiety: %s / %s (day %s)",
+  "horror_events.command.reset": "Horror Events state reset."
+}
